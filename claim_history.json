@@ -1,0 +1,10 @@
+[
+  {
+    "submitted_at": "2026-04-27T13:00:12.944252+00:00",
+    "source": "email",
+    "snippet": "Hi, I'm Jane Smith (jane.smith@email.com). I need to file a claim under \"             \"policy POL-20",
+    "status": "complete",
+    "processing_time_s": 56.1,
+    "summary": "---\n\n## \u2705 Claim Processing Complete\n\n**Claim reference FNOL-CCEED241** submitted by Jane Smith (jane.smith@email.com) has been fully processed via the automated happy path in under 45 seconds. The claim relates to a falling tree branch causing damage to her car bonnet on 24 April 2026, with an estimated repair cost of \u00a3800 under active policy POL-2024-5678. The loss type (`property_damage`) is confirmed covered under the policy (limit: \u00a3250,000; deductible: \u00a31,000), severity was classified as **LOW** with full confidence, and the claim has been routed to specialist adjuster **Alice Moreau**, who will contact Jane within 4 business hours. Two email acknowledgments were delivered to the claimant \u2014 a receipt confirmation at intake and a routing-complete notification upon adjuster assignment."
+  }
+]
